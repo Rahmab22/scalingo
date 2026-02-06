@@ -1,6 +1,6 @@
 # Rapport de déploiement - BENAYAD
 ## Liens
-- **Application en ligne :** https://dashboard.scalingo.com/apps/osc-fr1/rahmasca
+- **Application en ligne :** https://rahmasca.osc-fr1.scalingo.io/
 - **Dépôt de code :** https://github.com/Rahmab22/scalingo.git
 ## Prérequis techniques
 ......
